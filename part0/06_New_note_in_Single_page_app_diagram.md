@@ -1,4 +1,4 @@
-# Sequence diagram: Single Page App diagram
+# Sequence diagram: New note in Single page app diagram
 
 ```mermaid
 sequenceDiagram
